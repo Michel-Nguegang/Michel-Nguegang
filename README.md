@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michel-nguegang&show_icons=true&locale=en" alt="michel-nguegang" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michel-nguegang&" alt="michel-nguegang" /></p>
