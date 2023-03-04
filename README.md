@@ -7,7 +7,7 @@
 
 - 🌱 I’m actively learning **Python, SQL, Excel and Tableau**
 
-- 📜 My additional certifications include: **Google Data Analytics Certificate** offered by Coursera and **The Complete SQL Bootcamp: Go from Zero to Hero, Python for Finance: Investment Fundamentals & Data Analytics** and **The Python for Data Science and Machine Learning Bootcamp** all offered by Udemy
+- 📜 My additional certifications include: **The Google Data Analytics Certificate** offered by Coursera and **The Complete SQL Bootcamp: Go from Zero to Hero, Python for Finance: Investment Fundamentals & Data Analytics** and **The Python for Data Science and Machine Learning Bootcamp** all offered by Udemy
 
 - 👨‍💻 All of my bootcamp projects and personal projects are available at [https://github.com/Michel-Nguegang?tab=repositories](https://github.com/Michel-Nguegang?tab=repositories)
 
