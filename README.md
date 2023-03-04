@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michel-nguegang&label=Profile%20views&color=0e75b6&style=flat" alt="michel-nguegang" /> </p>
 
-- 🌱 I’m actively learning **Python, SQL, Excel and Tableau**
+- 🌱 I’m actively learning **Python, SQL, Excel and Tableau**.
 
-- 📜 My additional certifications include: **The Google Data Analytics Certificate** offered by Coursera and **The Complete SQL Bootcamp: Go from Zero to Hero, Python for Finance: Investment Fundamentals & Data Analytics** and **The Python for Data Science and Machine Learning Bootcamp** all offered by Udemy
+- 📜 My additional certifications include: **The Google Data Analytics Certificate** offered by Coursera and **The Complete SQL Bootcamp: Go from Zero to Hero, Python for Finance: Investment Fundamentals & Data Analytics** and **The Python for Data Science and Machine Learning Bootcamp** all offered by Udemy.
 
-- 👨‍💻 All of my bootcamp projects and personal projects are available at [https://github.com/Michel-Nguegang?tab=repositories](https://github.com/Michel-Nguegang?tab=repositories)
+- 👨‍💻 All of my bootcamp projects and personal projects are available at [https://github.com/Michel-Nguegang?tab=repositories](https://github.com/Michel-Nguegang?tab=repositories).
 
-- 📫 How to reach me **brianmichel13@gmail.com**
+- 📫 How to reach me **brianmichel13@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
