@@ -1,7 +1,7 @@
 ### Welcome 👋!
 
 <h1 align="center">Hello, I'm Michel Brian Nguegang</h1>
-<h3 align="center">I am a self-taught data analyst and graduate from the Ohio State University. With a background in business operations management, I decided to motivate myself into my new found passion mainly with SQL, Python, Tableau and Excel as its potential has the keys to world development.</h3>
+<h3 align="center">I am a self-taught data analyst and graduate from the Ohio State University. With a background in business operations management, I decided to motivate myself into combining my education with my new found passion mainly with SQL, Python, Tableau and Excel as its potential has the keys to world development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michel-nguegang&label=Profile%20views&color=0e75b6&style=flat" alt="michel-nguegang" /> </p>
 
